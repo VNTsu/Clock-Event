@@ -1,0 +1,15 @@
+E:\Code Rookie\Clock Delegate Event\bin\Debug\net6.0\Clock Delegate Event.exe
+E:\Code Rookie\Clock Delegate Event\bin\Debug\net6.0\Clock Delegate Event.deps.json
+E:\Code Rookie\Clock Delegate Event\bin\Debug\net6.0\Clock Delegate Event.runtimeconfig.json
+E:\Code Rookie\Clock Delegate Event\bin\Debug\net6.0\Clock Delegate Event.dll
+E:\Code Rookie\Clock Delegate Event\bin\Debug\net6.0\ref\Clock Delegate Event.dll
+E:\Code Rookie\Clock Delegate Event\bin\Debug\net6.0\Clock Delegate Event.pdb
+E:\Code Rookie\Clock Delegate Event\obj\Debug\net6.0\Clock Delegate Event.csproj.AssemblyReference.cache
+E:\Code Rookie\Clock Delegate Event\obj\Debug\net6.0\Clock Delegate Event.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Rookie\Clock Delegate Event\obj\Debug\net6.0\Clock Delegate Event.AssemblyInfoInputs.cache
+E:\Code Rookie\Clock Delegate Event\obj\Debug\net6.0\Clock Delegate Event.AssemblyInfo.cs
+E:\Code Rookie\Clock Delegate Event\obj\Debug\net6.0\Clock Delegate Event.csproj.CoreCompileInputs.cache
+E:\Code Rookie\Clock Delegate Event\obj\Debug\net6.0\Clock Delegate Event.dll
+E:\Code Rookie\Clock Delegate Event\obj\Debug\net6.0\ref\Clock Delegate Event.dll
+E:\Code Rookie\Clock Delegate Event\obj\Debug\net6.0\Clock Delegate Event.pdb
+E:\Code Rookie\Clock Delegate Event\obj\Debug\net6.0\Clock Delegate Event.genruntimeconfig.cache

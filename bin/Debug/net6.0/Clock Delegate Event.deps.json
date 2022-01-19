@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clock Delegate Event/1.0.0": {
+        "runtime": {
+          "Clock Delegate Event.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clock Delegate Event/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
